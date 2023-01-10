@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Adidas FORUM LOW",
+    "price": "9999",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b743345901d446e6b956ae6f0125d81f_9366/Forum_Low_Shoes_White_GW7107_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bbd96b10e36b45989900ae6f0125fbdc_9366/Forum_Low_Shoes_White_GW7107_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/15732676a9ed46ffb333ae6f01260a28_9366/Forum_Low_Shoes_White_GW7107_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b740f231bac8498fa343ae6f0125f3ea_9366/Forum_Low_Shoes_White_GW7107_03_standard.jpg",
+    "rating": 4,
+    "description": "Own your story in shoes that help celebrate the voices of women around the world. These trainers are part of the adidas Always Original collection, which honours expression without limits.",
+    "brand": "Adidas",
+    "color": "white",
+    "category": "women"
+  },
+  {
+    "name": "Adidas ADISTAR",
+    "price": "6499",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/607ee4e6f27e448dbd93ad7800a2f512_9366/Adistar_Shoes_Blue_GX3000_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f9d4ef51b654e6d880fad7800a31b0c_9366/Adistar_Shoes_Blue_GX3000_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7bf6be4fc6f443ff9ec1ad7800a3248a_9366/Adistar_Shoes_Blue_GX3000_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/79977780b5384c5ba1e2ad7800a3132f_9366/Adistar_Shoes_Blue_GX3000_03_standard.jpg",
+    "rating": 4,
+    "description": "The distance running shoe inspired by the idea of perpetual motion and tested over 4,500 km. Adistar combines a soft, lightweight REPETITOR foam platform with REPETITOR +, a firmer foam, to create a dual density midsole.",
+    "brand": "Adidas",
+    "color": "blue",
+    "category": "men"
+  },
+  {
+    "name": "Adidas NMD_R1",
+    "price": "6499",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2366d837b4414d3db3f9ae8d015bc992_9366/NMD_R1_Shoes_Black_GZ9274_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b269e9dc05ef4ff09a65ae8d015d4e6e_9366/NMD_R1_Shoes_Black_GZ9274_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1ae29d163fb4eb88920ae8d015c1ac9_9366/NMD_R1_Shoes_Black_GZ9274_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/11e4ea81428441f49e0fae8d015c44e2_9366/NMD_R1_Shoes_Black_GZ9274_03_standard.jpg",
+    "rating": 5,
+    "description": "The world awaits. Go explore it in these adidas NMD_R1 shoes. Ensuring you always feel good on your feet, they come packed with comfort, thanks to an energy-returning Boost midsole and a soft, knit upper. Cruise through city streets with ease, and stand out when you stop to take in the sights.",
+    "brand": "Adidas",
+    "color": "black",
+    "category": "men"
+  },
+  {
+    "name": "Adidas ZX 22 BOOST",
+    "price": "11999",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3aef041cdab346ad893fae07010cfcbc_9366/ZX_22_BOOST_Shoes_White_GY6693_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/94981b0a96e0415e985aae07010d1a1c_9366/ZX_22_BOOST_Shoes_White_GY6693_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a9f4980e74da44398b71ae07010d220e_9366/ZX_22_BOOST_Shoes_White_GY6693_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a4f6a4dbf3a54a0db756ae07010d1302_9366/ZX_22_BOOST_Shoes_White_GY6693_03_standard.jpg",
+    "rating": 3,
+    "description": "Clean, simple, comfortable. These juniors' adidas shoes transform a running-inspired icon into sleek, comfortable trainers you can wear on any occasion.",
+    "brand": "Adidas",
+    "color": "grey",
+    "category": "men"
+  },
+  {
+    "name": "Adidas ZX 2K BOOST",
+    "price": "7999",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/35d2851285a54340a8dcad8600dd4922_9366/ZX_2K_BOOST_2.0_Shoes_White_GW8237_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/77dba2f5292d458a9c64ad8600dd680d_9366/ZX_2K_BOOST_2.0_Shoes_White_GW8237_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/664d3f456b574ef8a734ad8600dd71cf_9366/ZX_2K_BOOST_2.0_Shoes_White_GW8237_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/efc454ec25264481a7b7ad8600dd6207_9366/ZX_2K_BOOST_2.0_Shoes_White_GW8237_03_standard.jpg",
+    "rating": 3,
+    "description": "The ZX line has always looked to the horizon — setting its sights beyond the known, to the next innovation in technology. That evolution never stopped, and today it looks like these adidas shoes.",
+    "brand": "Adidas",
+    "color": "pink",
+    "category": "men"
+  },
+  {
+    "name": "ADIDAS RACER TR21",
+    "price": "7999",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2e2627a80b6c480f839baeab015a2401_9366/adidas_Racer_TR21_x_LEGO(r)_Shoes_White_GX2240_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c456bcf4829451ca928aeab015b9caf_9366/adidas_Racer_TR21_x_LEGO(r)_Shoes_White_GX2240_04_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/101871ab709f4f7c89b5aeab015a75f2_9366/adidas_Racer_TR21_x_LEGO(r)_Shoes_White_GX2240_05_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/659e18dc0c4a46408778aeab015a9ac7_9366/adidas_Racer_TR21_x_LEGO(r)_Shoes_White_GX2240_03_standard.jpg",
+    "rating": 4,
+    "description": "A grand influence on culture, Human Made touches all corners in the world of art. Here, in collaboration with adidas, the Japanese label lends their vision to these Questar shoes..",
+    "brand": "Adidas",
+    "color": "white",
+    "category": "men"
+  },
+  {
+    "name": "Adidas QUESTAR HM",
+    "price": "6999",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef580db8c04b40e9a2b9ad5100ed2554_9366/Questar_HM_Shoes_Turquoise_GY3018_01_standard.jpg",
+    "image1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/79aec8e216d54919903fad5100ed501c_9366/Questar_HM_Shoes_Turquoise_GY3018_011_hover_standard.jpg",
+    "image2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ab47a064c61d4955b2bead5100ed40c5_9366/Questar_HM_Shoes_Turquoise_GY3018_04_standard.jpg",
+    "image3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/055cd0fc6b1a49fa85daad5100ed3972_9366/Questar_HM_Shoes_Turquoise_GY3018_03_standard.jpg",
+    "rating": 4,
+    "description": "A grand influence on culture, Human Made touches all corners in the world of art. Here, in collaboration with adidas, the Japanese label lends their vision to these Questar shoes.",
+    "brand": "Adidas",
+    "color": "blue",
+    "category": "men"
+  }
+]
